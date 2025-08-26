@@ -2,6 +2,8 @@
 
 This document describes how to implement a VMAP solution with Video.js and the Google IMA SDK.
 
+## [DEMO](https://adserver.antpathads.com/videotest/index.html)
+
 ## English
 
 ### 1. Include the necessary libraries
