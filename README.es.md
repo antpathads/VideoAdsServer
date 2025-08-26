@@ -1,8 +1,8 @@
-# VMAP Implementation with Video.js and Google IMA SDK
+# Implementación de VMAP con Video.js y el SDK de Google IMA
 
-This document describes how to implement a VMAP solution with Video.js and the Google IMA SDK.
+Este documento describe cómo implementar una solución VMAP con Video.js y el SDK de Google IMA.
 
-## Spanish
+## Español
 
 ### 1. Incluir las librerías necesarias
 
